@@ -1,5 +1,5 @@
 swagger: '2.0'
-info: {title: Power BI REST API, description: Power BI REST API, version: '1.1'}
+info: {title: Power BI REST API, description: Power BI REST API, version: '1.2'}
 host: api.powerbi.com
 basePath: /
 schemes: [https]
